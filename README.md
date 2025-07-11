@@ -1,4 +1,5 @@
-# NewCodingBot
+# Predicting House Prices
+
 📌 Project Title
 Boston Housing Price Prediction
 
